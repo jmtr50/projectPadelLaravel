@@ -1,0 +1,58 @@
+
+
+.courts table{
+    margin: 0 auto;
+
+
+}
+.courts  td, th {
+    border: 0px ;
+    margin: 0 auto;
+}
+
+.pista{
+    background-image: url('../Imagenes/pista.jpg');
+    background-size:cover;
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 150px;
+}
+
+.player{
+    height: 100%;
+    text-align: center;
+
+}
+.player table{
+    width: 90%;
+    margin: 0 auto;
+
+}
+
+.player th,td{
+    border: 1px solid #ddd;
+    text-align: center;
+}
+
+
+.pista caption{
+    color:limegreen;
+    text-align: center;
+}
+.pista td{
+    vertical-align:middle;
+
+    width: 100%;
+}
+.pista img{
+    max-width: 50px;
+    max-height: 30px;
+    position: relative;
+    display: none;
+
+
+}
+
+
+
+
